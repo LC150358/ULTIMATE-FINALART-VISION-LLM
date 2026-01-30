@@ -1,4 +1,4 @@
-# ULTIMATE-FINALART-VISION-LLM
+
 # ULTIMATE FINALART VISION LLM
 
 An iOS application that uses Vision ML and Large Language Models to classify artworks and provide detailed information about artists and paintings.
