@@ -3,7 +3,7 @@ import UIKit
 
 class GeminiProvider {
     
-    private let apiKey = "AIzaSyBZt0D4ct9Xrr41qej3PYe2R1DmF-gHip4"
+    private let apiKey = geminiAPIKey
     private let modelName = "gemini-2.5-flash"
     
     static let shared = GeminiProvider()
